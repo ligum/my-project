@@ -1,4 +1,4 @@
-FROM openjdk:latest
+FROM openjdk:8u92-jre-alpine
 
 EXPOSE 8080
 
